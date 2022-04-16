@@ -1,0 +1,35 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.jumbotron{
+    background-color: darkred;
+    color: white;
+    height: 800px;
+    text-align: center;
+    padding: 200px;
+}
+
+#bigAlStadium{
+    position: relative;
+    max-height: 300px;
+}
+
+.card{
+    min-height: 100px;
+    max-width: fit-content;
+    padding: 5px;
+}
+
+.h_container{
+    background-color: #cac7c7;
+    border-radius: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.1);
+    display: inline;
+}
+
+  
